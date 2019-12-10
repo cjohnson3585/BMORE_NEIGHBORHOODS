@@ -1,0 +1,275 @@
+ID,county,Organization,address,city,state,zip,Neighborhood,Quadrant,phone,type,type 2,website
+0000,Baltimore City,Rose Street Community Center,821 N Rose Street,Baltimore,MD,21205,Milton-Montford,,(410) 675-1207,Support Group,Healthcare,
+0001,Baltimore City,Grant House Inc. MEN,2007 N. Pulaski St.,Baltimore,MD,21217,Mondawmin,,(410) 732-0236,Housing,,http://www.granthouse1.com
+0002,Baltimore County,Goodwill - Waverly Head Start Center,829 Montpelier Street ,Baltimore,MD,21218,Better Waverly,North,(410) 235- 0555,Education,,http://www.goodwillches.org/work/employee/training-programs/
+0003,Baltimore County,St. Vincent De Paul Baltimore,2305 N. Charles Street Suite 300,Baltimore,MD,21218,Old Goucher,North,(410) 773-0320,Medical,Healthcare,http://www.vincentbaltimore.org
+0004,Baltimore County,Catholic Charities of Washington SHARE Program-Baltimore,Baltimore wide (Various locations),Baltimore,MD,,,,(301) 864- 3115,Food,,http://www.sharedc.org
+0005,Baltimore County,Prison Outreach Ministry,Statewide. Call for Locations.,,,,,,(202) 772- 4300 ext. 040,Substance Abuse,Mental Health,
+0006,Baltimore County,Philemon Ministry,4421 Frankford Street,Baltimore,MD,21206,,,(443) 759- 1635,Substance Abuse,Mental Health,http://www.philemonministry.org
+0007,Baltimore City,Department of Social Services- Hilton Heights Center,500 N. Hilton Street,Baltimore,MD,21229,Allendale,,(443) 423-6400,Referral,,http://dhr.maryland.gov/local-offices/baltimore-city/
+0008,Baltimore City,Recovery for Life,3719 East Baltimore St.,Baltimore,MD,21224,Baltimore Highlands,,(410) 276-2212,Education,,http://www.addictionrecoverycenterbaltimore.com
+0009,Baltimore City,Saint Ambrose Housing Aid Center,321 E. 25th St.,Baltimore,MD,21218,Barclay,,(410) 366-8550,Mental Health,Healthcare,http://www.stambros.org
+0010,Baltimore City,The Women's Housing Coalition,119 E. 25th St.,Baltimore,MD,21218,Barclay,,(410) 235-5782,Mental Health,Healthcare,http://www.womenshousing.org
+0011,Baltimore City,MD Dept. of Public Safety & Correctional Services- GUILFORD - Parole & Probation,2100 Guilford Avenue,Baltimore,MD,21218,Barclay,,(443) 263-3706,Parole & Probation,,http://www.dpscs.state.md.us/locations/dpp_offices.shtml
+0012,Baltimore City,MD Dept. of Public Safety & Correctional Services- REGIONAL OFFICE- Parole & Probation,2100 Guilford Avenue,Baltimore,MD,21218,Barclay,,(443) 263-3720,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0013,Baltimore City,Manna House Inc.,435 E 25th St.,Baltimore,MD,21218,Barclay,,(410) 889-3001,Shelter,Housing,http://www.mannahouseinc.org
+0014,Baltimore City,Power Inside,325 E. 25th St.,Baltimore,MD,21218,Barclay,,(410) 889-8333,Substance Abuse,Mental Health,http://www.powerinside.org
+0015,Baltimore City,Grant House Inc. WOMEN,2604 E Preston St.,Baltimore,MD,21213,Berea,,(410) 732-0236,Housing,,http://www.granthouse1.com
+0016,Baltimore City,Grant House Behaivoral Health,2604 E Preston St.,Baltimore,MD,21213,Berea,,(410) 732-0236,Substance Abuse,Healthcare,http://www.granthouse1.com
+0017,Baltimore City,Goodwill - Waverly Head Start Center,829 Montpelier St.,Baltimore,MD,21218,Better Waverly,,(410) 235-0555,Education,,http://www.goodwillches.org/work/employee/training-programs/
+0018,Baltimore City,Marian House,949 Gorsuch Avenue,Baltimore,MD,21218,Better Waverly,,(410) 467-4121,Housing,,http://www.marianhouse.org
+0019,Baltimore City,By Faith Ministries,2801 Mathews St,Baltimore,MD,21218,Better Waverly,,(443) 741-5691,Referral,,
+0020,Baltimore City,Helping Other People through Empowerment,2828 Loch Raven Road,Baltimore,MD,21218,Better Waverly,,(410) 327-5830,Shelter,Housing,
+0021,Baltimore City,Department of Social Services- Dunbar-Orangeville Center,2919 E. Biddle Street,Baltimore,MD,21213,Biddle Street,,(443) 423-6400,Referral,,http://dhr.maryland.gov/local-offices/baltimore-city/
+0022,Baltimore City,Project I CAN,1301 N Broadway,Baltimore,MD,21213,Broadway East,,(410) 685-2878,Education,,http://www.CUPsCoffeehouse/ProjectICAN
+0023,Baltimore City,Humanim,1701 North Gay St.,Baltimore,MD,21213,Broadway East,,(410) 381-7171,Job,,http://www.humanim.com
+0024,Baltimore City,Threshold to Recovery Dee's Place,1212 N Wolfe St.,Baltimore,MD,21213,Broadway East,,(410) 276-4035,Referral,,http://www.hebcac.org/dees-place/
+0025,Baltimore City,MD Dept. of Public Safety & Correctional Services- SOUTHERN- Parole & Probation,1401 Severn Street Suite A103,Baltimore,MD,21230,Carroll - Camden Industrial Area,,(410) 878-8250,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0026,Baltimore City,MD Dept. of Public Safety & Correctional Services- SOUTHWEST- Parole & Probation,1401 Severn Street Suite A103,Baltimore,MD,21230,Carroll - Camden Industrial Area,,(410) 637-4200,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0027,Baltimore City,PDG Rehabilitation Inc.,1401 Severn St 2nd Floor,Baltimore,MD,21230,Carroll - Camden Industrial Area,,(410) 863-7213,Referral,,http://www.pdgrehab.com
+0028,Baltimore City,Women Affairs of Almumtahinah Home Inc.,220 S. Fulton Ave,Baltimore,MD,21223,Carrollton Ridge,,(443) 965-0555,Substance Abuse,Mental Health,http://www.almumtahinahhome.org
+0029,Baltimore City,Chrysalis House Healthy Start,4500 Park Heights Ave,Baltimore,MD,21215,Central Park Heights,,(410) 927-6829,Housing,,http://www.chrysalishouses.org
+0030,Baltimore City,Jane Addams Resource Corporation,4910 Park Heights Ave,Baltimore,MD,21215,Central Park Heights,,(410) 900-1440,Job,,http://www.jarcbaltimore.org
+0031,Baltimore City,Gaudenzia Inc.,4615 Park Heights Avenue,Baltimore,MD,21215,Central Park Heights,,(443) 423-1500,Substance Abuse,Mental Health,http://www.gaudenzia.org
+0032,Baltimore City,Project P.L.A.S.E. Women's Facility,1814 Maryland Avenue Baltimore MD 21201,Baltimore,MD,21201,Charles North,,(410) 837-1400 ext. 221,Housing,,http://www.projectplase.org
+0033,Baltimore City,Project PLASE Inc Co-ed Facility,1814 Maryland Avenue,Baltimore,MD,21201,Charles North,,410-837-1400 ext.221 ,Housing,,http://www.projectplase.org
+0034,Baltimore City,Project P.L.A.S.E. Men's Facility,1814 Maryland Avenue,Baltimore,MD,21201,Charles North,,(410) 837-1400 ext.221,Job,,http://www.projectplase.org
+0035,Baltimore City,Human Services Inc.,2112 Maryland Ave Baltimore MD 21218,Baltimore,MD,21218,Charles North,,(443) 388-9530,Mental Health,Healthcare,http://www.mycareconnection.org
+0036,Baltimore City,Empowering Minds Resource Center,1800 N Charles Street Suite 804,Baltimore,MD,21201,Charles North,,(410) 625-5088,Referral,,http://www.emrcgroup.org
+0037,Baltimore City,Turn Around Inc.,1800 N. Charles St Suite 404,Baltimore,MD,21201,Charles North,,(410) 837-7000,,,http://www.turnaroundinc.org
+0038,Baltimore City,Adult Learning Center Strong City Baltimore,3501 N. Charles Street,Baltimore,MD,21218,Charles Village,Northeast,(410) 261-3524,Education,,http://www.strongcitybaltimore.org/our-work/adult-learning-center
+0039,Baltimore City,Parish Conferences,2305 N. Charles St,Baltimore,MD,21218,Charles Village,,(410) 662-0500 ext. 207,Housing,,http://www.vincentbaltimore.org
+0040,Baltimore City,Maryland New Directions,2700 N Charles St Suite 200,Baltimore,MD,21218,Charles Village,,(410) 230-0630,Job,,http://www.mdnewdirections.org
+0041,Baltimore City,Youth Empowered Society (YES) Drop- In Center,2315 North Charles Street,Baltimore,MD,21218,Charles Village,,(410) 235-7744,Job,,http://www.yesdropincenter.org
+0042,Baltimore City,Alternative Directions Inc.,2505 N. Charles Street,Baltimore,MD,21218,Charles Village,,(410) 889-5072,Legal,,http://www.alternativedirectionsinc.org
+0043,Baltimore City,Baltimore Neighborhoods Inc. (BNI),2530 N Charles Street,Baltimore,MD,21218,Charles Village,,(410) 243-4400,Legal,,http://bni-maryland.org
+0044,Baltimore City,Roberta's House,2510 St. Paul St.,Baltimore,MD,21218,Charles Village,,(410) 235-6633,Substance Abuse,Healthcare,http://www.robertashouse.org
+0045,Baltimore City,MedMark - Cherry Hill,1801 Cherry Hill Road,Baltimore,MD,21230,Cherry Hill,,(410) 225-5452,Substance Abuse,Healthcare,http://www.medmark.com
+0046,Baltimore City,Safe Haven (Baltimore Mental Health Systems Inc.),2304 Belair Road,Baltimore,MD,21213,Clifton Park,,(410) 732-1390,counseling,Healthcare,
+0047,Baltimore City,Goodwill - Clerical & Computer Skills Training Classes,222 East Redwood St.,Baltimore,MD,21202,Downtown,Central,(410) 837-1800 ext.145,Education,,http://www.goodwillches.org/work/employee/training-programs/
+0048,Baltimore City,Goodwill - Custodial Skills Training,222 East Redwood St.,Baltimore,MD,21202,Downtown,Central,(410) 837-1800 ext.186,Education,,http://www.goodwillches.org/work/employee/training-programs/
+0049,Baltimore City,Goodwill - GED Preparation,222 East Redwood St.,Baltimore,MD,21202,Downtown,Central,(410) 837-1800 ext.199,Education,,http://www.goodwillches.org/work/employee/training-programs/
+0050,Baltimore City,Maryland Insurance Administration,200 St. Paul Place Suite 2700,Baltimore,MD,21202,Downtown,Central,(800) 492-6116,Housing,,http://www.mdinsurance.state.md.us
+0051,Baltimore City,The Lazarus Rite Inc.,7 E. Franklin St.,Baltimore,MD,21202,Downtown,Central,(410) 844-9300,Housing,,http://www.thelazarusrite.org
+0052,Baltimore City,America Works of Maryland Inc.,22 Light Street 5th Floor,Baltimore,MD,21202,Downtown,Central,(410) 625-9675,Job,,http://www.americaworks.com
+0053,Baltimore City,Baltimore City Joint Apprenticeship Program,201 East Baltimore St. 2nd Floor,Baltimore,MD,21202,Downtown,Central,(410) 396-1411,Job,,http://humanresources.baltimorecity.gov/employment
+0054,Baltimore City,Goodwill - Buena Alianza program,32 South Street,Baltimore,MD,21202,Downtown,Central,(410) 837-1800 ext.136,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0055,Baltimore City,Goodwill - Job Readiness Program,222 East Redwood St.,Baltimore,MD,21202,Downtown,Central,(410) 837-1800 ext.199,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0056,Baltimore City,Goodwill - STEP Program,32 South St.,Baltimore,MD,21202,Downtown,Central,(410) 625-1877 ext.101,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0057,Baltimore City,Goodwill - Supporting Ex- Offenders in Employment Training and Transitional Services,222 East Redwood St.,Baltimore,MD,21202,Downtown,Central,(410) 837-1800 ext.199,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0058,Baltimore City,Job Opportunities Task Force - JumpStart Program,217 E. Redwood St Suite 1500,Baltimore,MD,21202,Downtown,Central,(443) 692-9429,Job,,http://www.jotf.org
+0059,Baltimore City,Volunteers Of America Paca House,116 North Paca St.,Baltimore,MD,21202,Downtown,Central,(410) 837-7222,Job,Employment,http://www.voachesapeake.org/paca-house
+0060,Baltimore City,Baltimore City Office of Child Support Services operated by MAXIMUS Inc.,1 N Charles St 5th Floor,Baltimore,MD,21201,Downtown,Central,(410) 951-8000,Legal,,
+0061,Baltimore City,Clean Slate America Inc.,226 N. Paca St.,Baltimore,MD,21201,Downtown,Central,(443) 912-3205,Legal,,http://www.re-entryguy.com/
+0062,Baltimore City,Homeless Persons Representation Project,201 N Charles St Suite 1104,Baltimore,MD,21201,Downtown,Central,(410) 685-6589,Legal,,http://www.hprplaw.org
+0063,Baltimore City,Maryland Commission on Civil Rights,6 Saint Paul Street Suite 900,Baltimore,MD,21202,Downtown,Central,(410) 767-8600,Legal,,http://www.mccr.maryland.gov
+0064,Baltimore City,Maryland Volunteer Lawyers Services,201 North Charles Street Suite 1400,Baltimore,MD,21201,Downtown,Central,(800) 510-0050 Intake,Legal,,http://www.mvlslaw.org
+0065,Baltimore City,Inspirations LLC.,210 E Lexington Street Suite 104,Baltimore,MD,21202,Downtown,Central,(410) 878-7131,Mental Health,Healthcare,http://www.inspirationsmd.com
+0066,Baltimore City,My Sister's Place Women's Center,17 West Franklin Street,Baltimore,MD,21201,Downtown,Central,(667) 600-3700,Shelter,Housing,http://www.catholiccharities-md.org/my-sisters-place/
+0067,Baltimore City,STEP UP,1 North Charles Street 5th Floor,Baltimore,MD,21202,Downtown,Central,(410) 951-8000,Substance Abuse,Healthcare,http://dhr.maryland.gov/child-support-services
+0068,Baltimore City,Traveler’s Aid Program,17 W. Franklin St,Baltimore,MD,21201,Downtown,Central,(410) 659-4020,Substance Abuse,Healthcare,http://www.travelersaid.org
+0069,Baltimore City,District Court Re- Entry Project,1400 E. North Ave,Baltimore,MD,21213,East Baltimore Midway,,(410) 878-8503,Job,,
+0070,Baltimore City,Department of Social Services- North East Regional,2000 N. Broadway Street,Baltimore,MD,21213,East Baltimore Midway,,(443) 423-6400,Referral,,http://dhr.maryland.gov/local-offices/baltimore-city/
+0071,Baltimore City,By Grace Counseling Services Inc.,1000-1006 E Patapsco Ave,Baltimore,MD,21225,Fairfield Area,,(410) 355-3711,Substance Abuse,Healthcare,
+0072,Baltimore City,Frederick Ozanam House,400 S. Bond Street,Baltimore,MD,21231,Fells Point,,(410) 732-1892,Housing,,http://www.vincentbaltimore.org
+0073,Baltimore City,Home Connections,400 S. Bond St.,Baltimore,MD,21231,Fells Point,,(410) 732-1892,Housing,,http://www.vincentbaltimore.org
+0074,Baltimore City,Beans and Bread,400 S. Bond Street,Baltimore,MD,21231,Fells Point,,(410) 732-1892,Shelter,Housing,http://www.vincentbaltimore.org
+0075,Baltimore City,Human Resources Power House,4218 Bayonne Ave Baltimore MD 21206,Baltimore,MD,21206,Frankford,,(443) 857-4486,Education,,hrpowerhouse.org
+0076,Baltimore City,Paradise Adult Medical Day Care Center (PAMDC),5613-5617 Belair Road,Baltimore,MD,21206,Frankford,,(410) 483-4444,Education,,http://www.pamdc.com
+0077,Baltimore City,Echo House Multi- Service Center Inc.,1705 W Fayette Street,Baltimore,MD,21223,Franklin Square,,(410) 947-1700,Substance Abuse,Healthcare,
+0078,Baltimore City,Total Health Care Substance Abuse Program,1501 W Saratoga St.,Baltimore,MD,21223,Franklin Square,,(410) 383-8300,Substance Abuse,Mental Health,http://www.totalhealthcare.org/services/substance-abuse-treatment-services/
+0079,Baltimore City,Changing Turn Community Health Care (Outreach Office),5106 Fredwall Ave,Baltimore,MD,21207,Franklintown,,(443) 200-5650,Job,,http://www.changingturn.com
+0080,Baltimore City,Madonna Healthcare Services Inc.,2300 Garrison Boulevard Suite S1,Baltimore,MD,21216,Garwyn Oaks,,(410) 233-4039,Mental Health,Healthcare,http://www.madonnaprp.com
+0081,Baltimore City,Baltimore Cares Inc.,2300 Garrison Blvd Suite 200,Baltimore,MD,21216,Garwyn Oaks,,(410) 233-3111,Substance Abuse,Healthcare,http://www.baltimorecaresinc.com
+0082,Baltimore City,MISHA House - Garwyn Medical Center,2300 Garrison Blvd Suite 220B,Baltimore,MD,21216,Garwyn Oaks,,(443) 708-3054,Substance Abuse,Healthcare,http://www.mishahouse.org
+0083,Baltimore City,Step By Step of Maryland,5616 Park Heights Ave,Baltimore,MD,21215,Glen,,(410) 744-5200,Education,,http://www.sbsofmd.com
+0084,Baltimore City,Jewish Community Services,5750 Park Heights Avenue,Baltimore,MD,21215,Glen,,(410) 466-9200,Mental Health,Healthcare,http://www.jcsbaltimore.org
+0085,Baltimore City,Port Recovery Transitional Housing,3410 White Avenue,Baltimore,MD,21214,Glenham-Belhar,,(410) 522-3746 Intake,Substance Abuse,Healthcare,http://www.portrecovery.com
+0086,Baltimore City,Fusion Partnerships,1601 Guilford Ave,Baltimore,MD,21202,Greenmount West,,(410) 889-4700,Referral,,http://www.fusiongroup.org
+0087,Baltimore City,Out for Justice,4 E. University Parkway,Baltimore,MD,21218,Guilford,,(443) 422-8884,Job,,http://www.out4justice.org
+0088,Baltimore City,Community Conferencing Center,1500 Union Avenue Suite 2700,Baltimore,MD,21211,Hampden,,(410) 889-7400,Legal,,http://www.communityconferencing.org
+0089,Baltimore City,A Step Forward Inc.,800 N Fulton Avenue,Baltimore,MD,21217,Harlem Park,Northwest,(410) 462-6001,Substance Abuse,Mental Health,http://www.takeastepforward.org
+0090,Baltimore City,Apex Counseling Center LLC,3200 Eastern Ave,Baltimore,MD,21224,Highlandtown,,(410) 522-1181,Mental Health,,http://www.apexcounselingcenter.com
+0091,Baltimore City,Freedom Advocates Celebrating Ex- Offenders (F.A.C.E.),1564 Sheffield Road ,Baltimore,MD,21218,Hillen,,(410) 522-3223,Referral,,http://www.facebaltimore.org
+0092,Baltimore City,Families Matter,820 W. Lombard Street,Baltimore,MD,21201,Hollins Market,,(443) 570-2679,Food,,
+0093,Baltimore City,Positive Steps LLC,5710 Bellona Avenue Suite 102,Baltimore,MD,21212,Homeland,,(410) 878-6404,Housing,,http://www.positivestepsllc.org
+0094,Baltimore City,Insightful Life Therapeutic Services,5438 York Road Suite 202,Baltimore,MD,21212,Homeland,,(443) 873-7197,Mental Health,Healthcare,
+0095,Baltimore City,Changing Turn Community Health Care,5438 York Road Suite 103,Baltimore,MD,21212,Homeland,,(443) 708-1461,Substance Abuse,Mental Health,http://www.changingturn.com
+0096,Baltimore City,University of Maryland Medical Center (UMMC- Shock Trauma) Violence Prevention Program,110 South Paca Street 3rd Floor,Baltimore,MD,21201,Inner Harbor,,(410) 328-9833,Referral,,https://www.umms.org/ummc/health-services/shock-trauma/center-injury-prevention-policy/violence
+0097,Baltimore City,Behavioral Health System Baltimore,100 S. Charles Street Tower II 8th Floor,Baltimore,MD,21201,Inner Harbor,,(410) 637-1900,Substance Abuse,Mental Health,http://www.bhsbaltimore.org
+0098,Baltimore City,Chrysalis House Intensive Outpatient,4207 Frederick Ave,Baltimore,MD,21229,Irvington,,(410) 927-6829 ext.1090,Substance Abuse,Healthcare,http://www.chrysalishouses.org
+0099,Baltimore City,MD Dept. of Public Safety & Correctional Services- NORTHEAST- Parole & Probation,428 E Preston St.,Baltimore,MD,21202,Johnston Square,,(410) 962-6300,Parole & Probation,,http://www.dpscs.state.md.us/locations/dpp_offices.shtml
+0100,Baltimore City,Mission Fit,2720 Sisson St.,Baltimore,MD,21211,Jones Falls Area,,(443) 460-8178,Job,,http://www.missionfit.org
+0101,Baltimore City,MD Dept. of Public Safety & Correctional Services- CENTRAL- Parole & Probation,301 N Gay Street 3rd Floor,Baltimore,MD,21202,Jonestown,,(410) 895-7666,Parole & Probation,,http://www.dpscs.state.md.us/locations/dpp_offices.shtml
+0102,Baltimore City,Baltimore Rescue Mission,4 N Central Ave,Baltimore,MD,21202,Jonestown,,(410) 342-2533,Shelter,,https://baltimorerescuemission.org/
+0103,Baltimore City,Helping Up Mission,1029 E Baltimore St.,Baltimore,MD,21202,Jonestown,,(410) 675-7500,Shelter,Housing,http://www.helpingupmission.org
+0104,Baltimore City,Karis House,1228 E. Baltimore St.,Baltimore,MD,21202,Jonestown,,(410) 342-1323,Shelter,Housing,
+0105,Baltimore City,Maryland Center for Veterans Education and Training,301 North High St.,Baltimore,MD,21202,Jonestown,,(410) 576-9626,Shelter,Housing,http://www.mcvet.org
+0106,Baltimore City,Mt. Lebanon Baptist Food Pantry,2812 Reisterstown Rd,Baltimore,MD,21215,Liberty Square,,(410) 669-1800,Food,,http://www.mtlebanonbaptist.org
+0107,Baltimore City,TIME Organization,2901 Druid Park Auite A210,Baltimore,MD,21215,Liberty Square,,(443) 872-2230,Mental Health,Healthcare,http://www.timeorganization.org
+0108,Baltimore City,Neuropsychiatry Institute at Good Samaritan Hospital Russel Morgan Building,5601 Loch Raven Blvd Suite 406,Baltimore,MD,21239,Loch Raven,,(443) 444-4540,Medical,Healthcare,
+0109,Baltimore City,Gaudenzia Inc. Weinberg Center at Woodland,3643 Woodland Ave,Baltimore,MD,21215,Lucille Park,,(410) 367-5501,Substance Abuse,Mental Health,http://www.gaudenzia.org
+0110,Baltimore City,Eastside American Job Center,3001 E. Madison Street,Baltimore,MD,21205,Madison-Eastend,,(410) 396-9030,Job,,http://www.dllr.state.md.us/county/bacity
+0111,Baltimore City,MD Dept. of Public Safety & Correctional Services- SOUTHEAST- Parole & Probation,3027 E Madison St,Baltimore,MD,21205,Madison-Eastend,,(410) 537-7300,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0112,Baltimore City,Reconstruct and Rebuild,611 N. Montford Ave,Baltimore,MD,21205,McElderry Park,,(443) 885-9740,Housing,,http://www.fusiongroup.org/partners/Reconstruct$20and$20Rebuild
+0113,Baltimore City,Huber and Associates,500 Woodbourne Ave Baltimore MD 21212,Baltimore,MD,21212,Mid-Govans,,(410) 248-0257,Sex offender treatment,,
+0114,Baltimore City,Department of Social Services- Harbor View Center,18 Reedbird Avenue,Baltimore,MD,21225,Middle Branch/Reedbird Parks,,(443) 423-6400,Referral,,http://dhr.maryland.gov/local-offices/baltimore-city/
+0115,Baltimore City,Bea Gaddy Family Center,425 N. Chester Street,Baltimore,MD,21231,Middle East,,(410) 563-2749,Shelter,Housing,http://www.bea-gaddy.org
+0116,Baltimore City,The Bea Gaddy Family Centers,425 N Chester St,Baltimore,MD,21231,Middle East Eager Park,,(410) 563-2749,Child support,,http://www.bea-gaddy.org
+0117,Baltimore City,The Theodore House Inc.,2009 Harlem Ave,Baltimore,MD,21217,Midtown-Edmondson,,(443) 438-4632,Substance Abuse,Healthcare,http://www.theodorehouse.org
+0118,Baltimore City,Bon Secours Family Support Center,2471 Frederick Avenue,Baltimore,MD,21223,Millhill,,(410) 362-3629,Education,,http://www.bonsecours.com/baltimore
+0119,Baltimore City,Living Classrooms- Adult Resource Center,901 N. Milton Avenue,Baltimore,MD,21205,Milton-Montford,,(410) 685-0295,Education,,http://www.livingclassrooms.org
+0120,Baltimore City,Center for Urban Families,2201 N. Monroe St,Baltimore,MD,21217,Mondawmin,,(410) 367-5691,Education,Job,http://www.cfuf.org
+0121,Baltimore City,Northwest One- Stop Career Center,2401 Liberty Heights Avenue Mondawmin Mall Suite 302,Baltimore,MD,21215,Mondawmin,,(410) 396-7873,Job,,
+0122,Baltimore City,Mission Possible Ministries Shelter For Men,1932 West North Ave,Baltimore,MD,21217,Mondawmin,,(410) 728-0353,Shelter,Housing,http://www.mpministries.com
+0123,Baltimore City,Older Women Embracing Life OWEL,2200 North Munroe St.,Baltimore,MD,21217,Mondawmin,,(240) 821-4405,Support Group,Healthcare,
+0124,Baltimore City,Division of Rehabilitation Services,2301 Argonne Drive,Baltimore,MD,21218,Montebello,,(410) 554-9442,Job,,http://www.dors.state.md.us/dors
+0125,Baltimore City,Tuerk House Inc.,730 Ashburton St.,Baltimore,MD,21216,Mosher,,(410) 233-0684,Travel,,http://www.tuerkhouse.org
+0126,Baltimore City,MISHA House Inc.,2204 Roslyn Avenue,Baltimore,MD,21216,Mount Holly,,(443) 708-3054,Shelter,Substance Abuse,http://www.mishahouse.org
+0127,Baltimore City,Complete Wellness Inc.,10 West Madison Street Suite 11,Baltimore,MD,21201,Mount Vernon,,(443) 438-7863,Mental Health,Healthcare,http://www.completew.com
+0128,Baltimore City,Center For Addiction Medicine (CAM),827 Linden Ave,Baltimore,MD,21201,Mount Vernon,,(410) 225-8240,Substance Abuse,Healthcare,http://www.camtreatment.com
+0129,Baltimore City,Home Free I.O.P.,10 West Madison Suite 1,Baltimore,MD,21201,Mount Vernon,,(410) 225-7696,Substance Abuse,Healthcare,http://homefreeiop.com
+0130,Baltimore City,MedMark - Downtown,821 N Eutaw Street Suites 101 and 201,Baltimore,MD,21201,Mount Vernon,,(410) 225-5452,Substance Abuse,Healthcare,http://www.medmark.com
+0131,Baltimore City,MedMark – Mt. Vernon,817 N Calvert St,Baltimore,MD,21202,Mount Vernon,,(410) 225-5452,Substance Abuse,Healthcare,http://www.medmark.com
+0132,Baltimore City,Port Recovery IOP (Intensive Outpatient Program),7000 Harford Road,Baltimore,MD,21234,North Harford Road,,(443) 869-4909,Job,,http://www.portrecovery.com
+0133,Baltimore City,Agape House Homeless Services,1501 North Dukeland Street,Baltimore,MD,21216,Northwest Community Action,Southeast,(410) 566-5007,Food,,http://www.agapehouseinc.com
+0134,Baltimore City,My Covenant Place,1400 E Federal St,Baltimore,MD,21213,Oliver,,(443) 759-3355,Substance Abuse,Healthcare,
+0135,Baltimore City,Volunteers of America Residential Re- Entry Center,5000 E Monument St.,Baltimore,MD,21205,Orangeville,,(410) 276-5880,Housing,,http://www.voachesapeake.org/rrc
+0136,Baltimore City,Cottage Avenue Community,2601 Ulman Avenue,Baltimore,MD,21215,Park Circle,,(410) 728-8741,Housing,,http://www.vincentbaltimore.org
+0137,Baltimore City,Front Door,3445 Park Heights Ave,Baltimore,MD,21215,Park Circle,,(410) 462-4009,Housing,,http://www.vincentbaltimore.org
+0138,Baltimore City,Career Connections,3445 Park Heights Avenue,Baltimore,MD,21215,Park Circle,,(410) 225-0870,Shelter,Housing,http://www.vincentbaltimore.org
+0139,Baltimore City,Mi Casa Es Su Casa,3921 Old York Road,Baltimore,MD,21218,Pen Lucy,,(855) 652-7376,Substance Abuse,Healthcare,http://www.mycasaliving.org
+0140,Baltimore City,Department of Social Services- Penn-North Center,2500 Pennsylvania Avenue,Baltimore,MD,21217,Penn North,,(443) 423-6400,Referral,,http://dhr.maryland.gov/local-offices/baltimore-city/
+0141,Baltimore City,Penn North Community Resource Center,2410 Pennsylvania Avenue Suite #200,Baltimore,MD,21217,Penn North,,(667) 309-6650,Substance Abuse,Mental Health,http://www.penn-north.com
+0142,Baltimore City,Christopher Place Employment Academy,725 Fallsway,Baltimore,MD,21202,Penn-Fallsway,,(667) 600-3408,Housing,,http://www.catholiccharities-md.org/our-daily-bread/christopher-place/
+0143,Baltimore City,Weinberg Housing and Resource Center,620 Fallsway,Baltimore,MD,21202,Penn-Fallsway,,(443) 478-3777,Housing,,http://www.cc-md.org/whrc
+0144,Baltimore City,Health Care for the Homeless - Downtown,421 Fallsway,Baltimore,MD,21202,Penn-Fallsway,,(410) 837-5533,Medical,Healthcare,http://www.hchmd.org
+0145,Baltimore City,Work For Success,725 Fallsway,Baltimore,MD,21202,Penn-Fallsway,,(443) 986-9000,Shelter,Housing,http://www.catholiccharities-md.org/our-daily-bread/employment-services
+0146,Baltimore City,Juvenile Court Early Intervention Program (JCEIP) (Referrals Only),300 N Gay Street Room 3800,Baltimore,MD,21202,Penn-Fallsway,,(443) 263-2731,Substance Abuse,Healthcare,
+0147,Baltimore City,Our Daily Bread Employment Center,725 Fallsway,Baltimore,MD,21202,Penn-Fallsway,,(667) 600-3400,Type,,http://www.catholiccharities-md.org/our-daily-bread/employment-services
+0148,Baltimore City,Health Care for the Homeless - West Baltimore Clinic,2000 West Baltimore Street Suite 247,Baltimore,MD,21223,Penrose/Fayette Street Outreach,,(443) 703-1400,Medical,Healthcare,http://www.hchmd.org
+0149,Baltimore City,Bon Secours Women's Resources And Day Shelter,10 North Pulaski Street,Baltimore,MD,21223,Penrose/Fayette Street Outreach,,(410) 362-3629,Shelter,Housing,http://www.bonsecours.com/baltimore
+0150,Baltimore City,DeVaughn Intervention Teach and Treat Options (DITTO),4804 York Road Suite 2,Baltimore,MD,21212,Radnor-Winston,,(443) 873-8958,Substance Abuse,Healthcare,http://www.evalifegiver.org
+0151,Baltimore City,Department of Social Services- Northwest Center,5818 Reisterstown Road,Baltimore,MD,21215,Reisterstown Station,,(443) 423-6400,Referral,,http://dhr.maryland.gov/local-offices/baltimore-city/
+0152,Baltimore City,People Encouraging People Substance Abuse/Co- Occurring Disorders Program,4201 Primrose Avenue,Baltimore,MD,21215,Reisterstown Station,,(410) 764-8560,Substance Abuse,Mental Health,http://www.peponline.org
+0153,Baltimore City,MD Dept. of Public Safety & Correctional Services-OFFICE OF VICTIM SERVICES,6776 Reisterstown Road Suite 305,Baltimore,MD,21215,Reisterstown Station,,(877) 227-8031,Victim Services,,http://www.dpscs.state.md.us
+0154,Baltimore City,University of Maryland Medical Center Outpatient Addiction Treatment Services,701 W Pratt Street 1st Floor,Baltimore,MD,21201,Ridgely's Delight,,(410) 328-6600,Victim Services,,http://www.umm.edu/oats/
+0155,Baltimore City,KMH Primary Health Care and Addiction,5820 York Road,Baltimore,MD,21212,Rosebank,,(667) 303-3700,Substance Abuse,Healthcare,
+0156,Baltimore City,Penn North Recovery Housing,1610 North Carey St,Baltimore,MD,21217,Sandtown-Winchester,,(410) 728-2080,Housing,,http://www.penn-north.com
+0157,Baltimore City,Sarah’s Hope Mount Street,1114 N. Mount St.,Baltimore,MD,21217,Sandtown-Winchester,,(410) 396-2204,Shelter,Housing,http://www.vincentbaltimore.org
+0158,Baltimore City,Baltimore Station,1611 Baker Street,Baltimore,MD,21217,Sandtown-Winchester,,(410) 752-4454,Substance Abuse,Healthcare,http://www.baltimorestation.org
+0159,Baltimore City,MD Dept. of Public Safety & Correctional Services- NORTHWEST- Parole & Probation,4750 Mt. Hope Dr.,Baltimore,MD,21215,Seton Business Park,,(410) 764-5800,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0160,Baltimore City,Baltimore Station,140 West  Street,Baltimore,MD,21230,Sharp-Leadenhall,,(410) 752-4454,Substance Abuse,Healthcare,http://www.baltimorestation.org
+0161,Baltimore City,American Rescue Workers,1401 South Hanover Street,Baltimore,MD,21230,South Baltimore,,(410) 566-3300,Shelter,Housing,http://www.americanrescueworkers.org
+0162,Baltimore City,Lead4Life Inc.,145 W Ostend St Suite 600,Baltimore,MD,21230,Spring Garden Industrial Area,,(443) 484-6179,Substance Abuse,Healthcare,http://www.lead4lifeinc.org
+0163,Baltimore City,No More Excuses,1727 W. Lombard St.,Baltimore,MD,21223,Union Square,,(410) 458-5314,Housing,,
+0164,Baltimore City,Center for Dispute Resolution (C- DRUM),500 W Baltimore Street,Baltimore,MD,21201,University of Maryland,,(410) 706-4272,Legal,,http://www.cdrum.org
+0165,Baltimore City,JACQUES Initiative (Institute of Human Virology),725 W Lombard Street First Floor,Baltimore,MD,21201,University of Maryland,,(410) 706-4323,Medical,Healthcare,http://www.jacques.ihv.org/
+0166,Baltimore City,Martha's Place,1928 Pennsylvania Avenue,Baltimore,MD,21217,Upton,,(410) 728-8402,Housing,,http://www.marthasplace.org
+0167,Baltimore City,Healthy Lives,1504 Joh Ave Suite 120,Baltimore,MD,21227,Violetville,,(443) 219-7901,Substance Abuse,Healthcare,http://www.healthylivesmaryland.com
+0168,Baltimore City,MISHA House Inc.,2819 Clifton Ave,Baltimore,MD,21216,Walbrook,,(443) 708-3054,Shelter,Substance Abuse,http://www.mishahouse.org
+0169,Baltimore City,Earl's Place,1400 E Lombard Street,Baltimore,MD,21231,Washington Hill,,(410) 522-0225,Housing,,http://www.umhousing.org
+0170,Baltimore City,Baltimore Community Mediation Center,3333 Greenmount Ave,Baltimore,MD,21218,Waverly,,(410) 467-9165,Legal,,http://www.communitymediation.org
+0171,Baltimore City,On Our Own Inc. (Baltimore City),6301 Harford Rd,Baltimore,MD,21214,Westfield,,(410) 444-4500,Mental Health,Healthcare,http://www.onourownmd.org
+0172,Baltimore City,Baltimore Crisis Response,5124 Greenwich Ave,Baltimore,MD,21229,Westgate,,(410) 433-5175,Referral,,http://www.bcresponse.org
+0173,Baltimore City,MISHA House Inc.,1212 N. Longwood St,Baltimore,MD,21216,Winchester,,(443) 708-3054,Shelter,Substance Abuse,http://www.mishahouse.org
+0174,Baltimore City,Micah House (GEDCO),5207 York Road,Baltimore,MD,21212,Winston-Govans,,(410) 464-0935,Shelter,Housing,http://www.gedco.org
+0175,Baltimore City,Offender to Returning Citizen- Transition Program,7917 Harford Rd,Baltimore,MD,21234,,,(240) 210-5451,Education,,
+0176,Baltimore City,Prison Outreach Ministry,Statewide. Call for Locations.,,MD,,,,(202) 772-4300 ext.040,Education,,
+0177,Baltimore County,Sidran Institute,200 E Joppa Rd Suite 207,,MD,21286,,,(410) 825- 8888,Food,,http://www.sidran.org
+0178,Baltimore County,Habitat for Humanity-Home Buying Program,3741 Commerce Drive Suite 309 ,Baltimore,MD,21227,,,(410) 366- 1250,Housing,,http://www.habitatchesapeake.org/home
+0179,Baltimore City,Habitat for Humanity-Home Buying Program,3741 Commerce Drive Suite 309,Baltimore,MD,21227,,,(410) 366-1250,Housing,,http://www.habitatchesapeake.org/home
+0180,Baltimore County,Homes for America,318 Sixth Street Suite 2 ,Annapolis,MD,21403,,,(410) 269- 1222,Housing,,http://www.homesforamerica.org
+0181,Baltimore City,Homes for America,318 Sixth Street Suite 2,Annapolis,MD,21403,,,(410) 269-1222,Housing,,http://www.homesforamerica.org
+0182,Baltimore City,Job Housing & Recovery Inc.,P.O. Box 24258,Baltimore,MD,21217,,,(410) 522-2232,Housing,,http://www.jhrbaltimore.org
+0183,Baltimore City,Jobs Housing Recovery (JHR) Baltimore: Homeless Resource Center,3914 Vero Road,Baltimore,MD,21202,,,(410) 522-2232,Housing,,http://www.jhrbaltimore.org
+0184,Baltimore County,Muslim Community Support Services,10807 Falls Rd Brooklandville,Brooklandville,MD,21022,,,(410) 988- 2929,Housing,,https://www.domesticshelters.org/help/md/brooklandville/21022/muslim-community-support-services
+0185,Baltimore City,Plumbers and Steamfitters Union Apprenticeship Program,1201 66th Street,Baltimore,MD,21237,,,(410) 866-5313,Housing,,http://www.ualocal486.com
+0186,Baltimore County,Right Turn IMPACT,1209 Liberty Road Suite 102,Eldersburg,MD,21784,,,(410) 581- 4900,Housing,,http://www.impactdui.com/programs
+0187,Baltimore County,Sarah’s Hope Hannah More,12041 Reisterstown Road,Reisterstown,MD,21136,,,(410) 773- 0320,Housing,,http://www.vincentbaltimore.org
+0188,Baltimore City,St. Vincent de Paul Head Start,Multiple locations in Baltimore City,,MD,,,,(410) 542-4242,Housing,,http://www.vincentbaltimore.org
+0189,Baltimore County,Alliance Inc.,9201 Philadelphia Road,Rosedale,MD,21237,,,(410) 574-7700,Job,,http://www.allianceinc.org
+0190,Baltimore County,AmeriCorps,Statewide,,MD,,,,(800) 942-2677,Job,,http://www.nationalservice.gov/programs/americorps
+0191,Baltimore City,AmeriCorps,Statewide,,MD,,,,(410) 663-1922,Job,,http://www.nationalservice.gov/programs/americorps
+0192,Baltimore County,Baltimore County Workforce Development Center at Eastpoint,7930 Eastern Boulevard,Baltimore,MD,21224,,,(410) 288-9050 ext.424,Job,,http://www.dllr.state.md.us/county/baco
+0193,Baltimore County,Baltimore County Workforce Development Center at Hunt Valley,11101 McCormick Road Suite 102,Hunt Valley,MD,21031,,,(410) 887-7940,Job,,http://www.dllr.state.md.us/county/baco
+0194,Baltimore County,Baltimore County Workforce Development Center at the Liberty Center,3637 Offutt Road,Randallstown,MD,21133,,,(410) 887-8912,Job,,http://www.dllr.state.md.us/county/baco
+0195,Baltimore County,Division of Rehabilitation Services,10461 Mill Run Circle Suite LL1,Owings Mills,MD,21117,,,(410) 998- 2030,Job,,http://www.dors.state.md.us/dors
+0196,Baltimore County,FoodWorks Program,2200 Halethorpe Farms Road,Baltimore,MD,21227,,,(410) 737-8282 ext.231,Job,,https://mdfoodbank.org/our-programs/foodworks
+0197,Baltimore County,Goodwill - STEP Program,32 South Street,Baltimore,MD,21202,,,(410) 625- 1877 ext. 101,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0198,Baltimore County,Goodwill & Baltimore County Public Library - Essex Branch,1110 Eastern Blvd,Essex,MD,21221,,,(410) 837- 1800 ext. 240 / (410) 887-0295,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0199,Baltimore County,Goodwill & Baltimore County Public Library - North Point Branch,1716 Merritt Blvd,Dundalk,MD,21222,,,(410) 837- 1800 ext. 240 / (410) 887-7255,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0200,Baltimore County,Goodwill & Baltimore County Public Library - Randallstown Branch,1716 Merritt Blvd Dundalk MD 21222,Dundalk,MD,21222,,,(410) 837- 1800 ext. 240 / (410) 887-0770,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0201,Baltimore County,Goodwill & Baltimore County Public Library - Woodlawn Branch,1811 Woodlawn Drive,Woodlawn,MD,21207,,,(410) 837- 1800 ext. 240 / (410) 887-1336,Job,,http://www.goodwillches.org/work/employee/training-programs/
+0202,Baltimore County,The Resource Group Counseling & Education Center Inc.,8501 LaSalle Road,Towson,MD,21286,,,(410) 337- 7772,Job,,http://www.resourcegrp.org
+0203,Baltimore County,Baltimore Neighborhoods Inc. (BNI),Statewide,,MD,,,,(410) 243-4400,Legal,,http://bni-maryland.org
+0204,Baltimore County,Conflict Resolution Center of Baltimore County,P.O. Box 34340,Essex,MD,21221,,,(410) 780- 1206,Legal,,http://crcbaltimorecounty.org
+0205,Baltimore County,Employment Law Hotline,305 W. Chesapeake Avenue,Towson,MD,21209,,,(877) 422- 9500,Legal,,
+0206,Baltimore County,Maryland Commission on Civil Rights,6 Saint Paul Street Suite 900,Baltimore,MD,21202,,,(410) 767- 8600,Legal,,http://www.mccr.maryland.gov
+0207,Baltimore County,Maryland Volunteer Lawyers Services,201 North Charles Street Suite 1400,Baltimore,MD,21201,,,(800) 510- 0050 Intake,Legal,,http://www.mvlslaw.org
+0208,Baltimore County,Health Care for the Homeless - Baltimore County,9150 Franklin Square Suite 301,Baltimore,MD,21237,,,(443) 703- 1468,Medical,,http://www.hchmd.org
+0209,Baltimore County,Healthcare Access Maryland,Call to enroll,,MD,,,,(877)223- 5201,Medical,Healthcare,http://www.healthcareaccessmaryland.org
+0210,Baltimore City,Healthcare Access Maryland,Call to enroll.,,MD,,,,(877)223-5201,Medical,Healthcare,http://www.healthcareaccessmaryland.org
+0211,Baltimore County,MedStar Franklin Square Medical Center - Healthcare for the Homeless,9100 Franklin Square Drive Suite 204,Baltimore,MD,21237,,,(443) 777- 2300,Medical,Healthcare,http://www.medstarhealth.org
+0212,Baltimore County,GIFTS Psychological Services,20 Crossroads Dr Suite 105,Owings Mills,MD,21117,,,(410) 356- 2007,Mental Health,Healthcare,
+0213,Baltimore County,Healthcare Living for Families,9216 Liberty Rd,Randallstown,MD,21233,,,(410) 701- 7384,Mental Health,Healthcare,http://www.healthcarelivingforfamilies.com
+0214,Baltimore County,Live Well and Thrive Therapy,17 Warren Rd Suite 25A,Pikesville,MD,21208,,,(410) 701- 0770,Mental Health,Healthcare,livewelltherapy.net
+0215,Baltimore City,NAMI,Statewide,Baltimore,MD,,,,(410) 884-8691,Mental Health,Healthcare,http://www.namimd.org
+0216,Baltimore County,NAMI,Statewide,,MD,,,,(410) 884- 8691,Mental Health,Healthcare,http://www.namimd.org
+0217,Baltimore County,On Our Own Inc. (Baltimore City),6718 Holabird Ave,Dundalk,MD,21222,,,(410) 282- 1701,Mental Health,Healthcare,http://www.onourownmd.org
+0218,Baltimore County,MD Dept. of Public Safety & Correctional Services- CATONSVILLE- Parole & Probation,900 Walker Avenue,Baltimore,MD,21228,,,(410) 455- 7830,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0219,Baltimore County,MD Dept. of Public Safety & Correctional Services- DUNDALK-Parole & Probation,3413 Dundalk Avenue,Baltimore,MD,21222,,,(410) 288- 5810,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0220,Baltimore County,MD Dept. of Public Safety & Correctional Services- OWINGS MILLS- Parole & Probation,10221-B S Dolfield Road,Owings Mills,MD,21117,,,(410) 902- 3380,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0221,Baltimore County,MD Dept. of Public Safety & Correctional Services-ESSEX- Parole & Probation,8914 Kelso Drive,Baltimore,MD,21221,,,(410) 238- 5500,Parole & Probation,,http://www.dpscs.state.md.us/locations
+0222,Baltimore County,Baltimore County Crisis Response,1205 York Rd,Baltimore,MD,21209,,,(410) 931-2116,Referral,,http://www.thesantegroup.org
+0223,Baltimore County,Baltimore County Department of Social Services,6401 York Road,Baltimore,MD,21212,,,(410) 853-3000,Referral,,http://dhr.maryland.gov/local-offices/baltimore-county/
+0224,Baltimore County,Baltimore County Dept. of Health Bureau of Behavioral Health,6401 York Road 3rd Floor,Baltimore,MD,21212,,,(410) 887-3828,Referral,,http://www.marylandbehavioralhealth.org
+0225,Baltimore County,Domestic Violence and Sexual Assault Hotline,Call For Services,,MD,,,,(410) 857- 0077,Referral,,
+0226,Baltimore City,Domestic Violence and Sexual Assault Hotline,Call For Services,,MD,,,,(410) 857-0077,Referral,,
+0227,Baltimore City,Enoch Pratt Library,22 branches check website for locations,,MD,,,,(410) 396-5430,Referral,Education,http://www.prattlibrary.org
+0228,Baltimore County,Family Crisis Center Inc.,Statewide. Call for Locations.,,MD,,,,(301) 731- 1203,Referral,,http://www.familycrisisresourcecenter.org
+0229,Baltimore City,Family Crisis Center Inc.,Statewide. Call for Locations.,,MD,,,,(301) 731-1203,Referral,,http://www.familycrisisresourcecenter.org
+0230,Baltimore City,Family Investment Center,Various Locations,,MD,,,,(410) 361-4600,Referral,,http://www.marylandfamilynetwork.org
+0231,Baltimore County,Men and Families Center,2222 Jefferson Street,Baltimore,MD,21205,,,(410) 614- 5353,Referral,,http://www.menandfamiliescenter.org
+0232,Baltimore City,United Way of Central Maryland,Statewide,,MD,,,,Dial 211,Referral,,http://www.211md.org
+0233,Baltimore County,Eastside Family Shelter,Call for location in Rosedale,Rosedale,MD,,,,(410) 853- 3000,Shelter,Housing,
+0234,Baltimore County,Family Crisis Center,Call for location in Dundalk,Dundalk,MD,,,,(410) 285- 7496,Shelter,Housing,http://www.familycrisiscenter.net
+0235,Baltimore City,Muslimat Al Nisaa Shelter,Call for shelter intake,Baltimore,MD,,,,(410) 466-8686,Shelter,Housing,http://www.mnisaa.org
+0236,Baltimore County,Muslimat Al Nisaa Shelter,Call for shelter intake,,MD,,,,(410) 466- 8686,Shelter,Housing,http://www.mnisaa.org
+0237,Baltimore County,Praising Through Recovery Inc.,526 N. Potomac Street,Baltimore,MD,21228,,,(443) 617- 8243,Shelter,Housing,http://www.praisingthroughrecovery.org
+0238,Baltimore City,SHARE Program,,,MD,,,,(301) 864-3115,Shelter,Housing,http://www.sharedc.org
+0239,Baltimore County,Thrive,8967 Yellow Brick Road,Rosedale,MD,21237,,,(410) 780- 4320,Shelter,Housing,http://www.thrivebh.com
+0240,Baltimore County,Turn Around Inc.,401 Washington Ave Suite 300,Towson,MD,21204,,,(410) 377- 8111,Shelter,Housing,http://www.turnaroundinc.org
+0241,Baltimore County,Turning Corners Inc.,260 Gateway Drive Suite 18A,Belair,MD,21014,,,(410) 485- 8876,Shelter,Housing,http://www.turningcornersinc.com
+0242,Baltimore County,Westside Emergency Men's Shelter,309 Redwood Cir,Catonsville,MD,21228,,,(410) 887- 4091,Shelter,Housing,
+0243,Baltimore County,WIN Family Health,4640 Edmondson Ave.,Catonsville,MD,21229,,,(443) 423- 0334,Shelter,Housing,http://www.winteam.info
+0244,,,,,,,,,,Shelter,Housing,
+0245,Baltimore County,A Helping Hand Health Services LLC,6401 Dogwood Rd Suite 201,Woodlawn,MD,21207,,,(410) 653-0021,Substance Abuse,,http://www.ahelpinghandmd.com
+0246,Baltimore County,Arthur Flax's Comprehensive Psychosocial Services,1401 Reisterstown Road Suite L-2,Pikesville,MD,21208,,,(410) 653-6300,Substance Abuse,Healthcare,
+0247,Baltimore County,Bergand Group,1300 York Road Building C Suite 300,Lutherville,MD,21093,,,(410) 853-7691,Substance Abuse,Healthcare,http://www.bergandgroup.com
+0248,Baltimore County,Celebrate Recovery,2122 W Joppa Road,Lutherville,MD,21093,,,(410) 821- 6573 ext. 108,Substance Abuse,Healthcare,http://www.crbaltimore.com
+0249,Baltimore County,DeVaughn Intervention Teach and Treat Options (DITTO),8035 Harford Road Suite C,Parkville,MD,21234,,,(410) 661- 0800,Substance Abuse,Healthcare,http://www.evalifegiver.org
+0250,Baltimore County,Epoch Counseling Center - Catonsville,800 Ingleside Avenue,Catonsville,MD,21228,,,(410) 744- 5937,Substance Abuse,Mental Health,http://www.friendsresearch.org/epoch_locations.htm
+0251,Baltimore County,Epoch Counseling Center - Dundalk,1107 North Point Blvd. Suite 205,Baltimore,MD,21224,,,(410) 284- 3070,Substance Abuse,Mental Health,http://www.friendsresearch.org/epoch_services.htm
+0252,Baltimore County,Epoch Counseling Center - Essex,621 Stemmers Run Road Suite E,Essex,MD,21221,,,(410) 574- 2500,Substance Abuse,Mental Health,http://www.friendsresearch.org/epoch_mission.htm
+0253,Baltimore County,Gaudenzia Inc. at Owings Mills,10225 Jensen Lane,Owings Mills,MD,21117,,,(410) 887- 1503,Substance Abuse,Mental Health,http://www.gaudenzia.org
+0254,Baltimore County,Glass Health Programs Essex,8860 Citation Road Suite B,Essex,MD,21221,,,(410) 225-5452,Substance Abuse,Healthcare,
+0255,Baltimore County,Glass Health Programs Essex,8909 Kelso Drive Essex MD 21221,,MD,,,,(410) 486- 2500,Substance Abuse,Healthcare,http://www.glasshealthprograms.com
+0256,Baltimore County,Life Renewal Services Inc.,6940 Tudsbury Road,Windsor Mill,MD,21244,,,(410) 277- 8910,Substance Abuse,Healthcare,http://www.liferenewalservices.net
+0257,Baltimore County,Maryland Addiction Recovery Center,8600 LaSalle Road Carroll Building Suite 212,Towson,MD,21286,,,(410) 773- 0500,Substance Abuse,Healthcare,http://www.marylandaddictionrecovery.com
+0258,Baltimore County,MedMark – Essex,8909 Kelso Drive,Essex,MD,21221,,,(410) 225-5452,Substance Abuse,Healthcare,http://www.MedMark.com
+0259,Baltimore County,MedMark – Timonium and Awakenings,2 West Aylesbury Rd.,Timonium,MD,21093,,,(410) 225-5452,Substance Abuse,Healthcare,http://www.MedMark.com
+0260,Baltimore County,New Directions Academy,9700 Old Harford Rd,Parkville,MD,21234,,,(410) 663- 8500,Substance Abuse,Healthcare,
+0261,Baltimore County,Towson Addictions Center,102 W Pennsylvania Ave Suite 306,Towson,MD,21204,,,(410) 337- 8193,Substance Abuse,Healthcare,http://www.towsonaddictions.com
+0262,Baltimore County,United Way of Central Maryland,Statewide,,MD,,,,Dial 211,Substance Abuse,Healthcare,http://www.211md.org
+0263,Baltimore County,Vehicles for Change,4111 Washington Blvd. Halethorpe MD 21227,Halethorpe,MD,21227,,,(855) 820- 7990,Substance Abuse,Healthcare,http://www.vehiclesforchange.org
+0264,Baltimore County,Alcoholics Anonymous,Various Locations,,MD,,,,(410) 663-1922,Support Group,,http://www.baltimoreaa.org
+0265,Baltimore City,Alcoholics Anonymous,Various Locations,,MD,,,Southwest,(410) 663-1922,Support Group,Healthcare,http://www.baltimoreaa.org
+0266,Baltimore City,Maryland Center of Excellence on Problem Gambling,Various Locations,Baltimore,MD,,,,(800) 522-4700,Support Group,Healthcare,http://www.mdproblemgambling.com
+0267,Baltimore County,Maryland Center of Excellence on Problem Gambling,Various Locations,,MD,,,,(800) 522- 4700 (24 Hour Helpline)/(66 7) 214-2120,Support Group,Healthcare,http://www.mdproblemgambling.com
+0268,Baltimore County,Narcotics Anonymous,,,MD,,,,(800) 543- 4670,Support Group,Healthcare,http://www.cprna.org
+0269,Baltimore City,Narcotics Anonymous,,,MD,,,,(800) 543-4670,Support Group,Healthcare,http://www.cprna.org
+0270,Baltimore County,AMVETS,,,MD,,,,(301) 683-4032,Veteran,,http://www.amvets.org
+0271,Baltimore City,AMVETS,Various Locations,,MD,,,,(301) 683-4032,Veteran,,https://amvets.org/
+0272,Baltimore City,Maryland Dept. of Veterans Affairs,Various Locations,Baltimore,MD,,,,(410) 260-3838,Veteran,,
+0273,Baltimore County,Maryland Dept. of Veterans Affairs,Various Locations,,MD,,,,(410) 260- 3838; (800) 446-4926 ext.6450 (Benefits),Veteran,,
